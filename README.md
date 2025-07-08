@@ -4,6 +4,12 @@ An interactive machine learning web app that predicts the **impact of natural di
 
 ---
 
+## 🚀 Live Demo
+
+[Try the App on Streamlit](https://catastropheimpactprediction-rizkyfirstportofolio.streamlit.app/)
+
+---
+
 ## 📌 Features
 
 - Predict disaster impact based on:
