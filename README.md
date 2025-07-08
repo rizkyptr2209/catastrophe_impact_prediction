@@ -29,8 +29,11 @@ This project is for educational purposes. You’re welcome to fork and build upo
 
 ---
 
-🙋‍♂️ About the Author
+## 🙋‍♂️ About the Author
 Rizky Putra Laksmana
+
 🎓 Data Science Bootcamp @ Dibimbing.id
+
 🔗 linkedin.com/in/rizkyputral22
+
 📧 rizkypl2209@gmail.com
