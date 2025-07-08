@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # LOAD DATA
-df = pd.read_csv("Data\\original_with_coordinates.csv")
+df = pd.read_csv("Data\original_with_coordinates.csv")
 
 # CONVER DATA TO COLUMN
 df['Date'] = pd.to_datetime(df['Date'])
